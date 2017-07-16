@@ -1,4 +1,5 @@
 (* example showing array usage *) 
+(* cleanup from comments *)
 
 open System
 
